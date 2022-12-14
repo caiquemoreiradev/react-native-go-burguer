@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "680244328233",
+    "project_id": "go-burguer-fc416",
+    "storage_bucket": "go-burguer-fc416.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680244328233:android:e483e1316b62d2e4d66938",
+        "android_client_info": {
+          "package_name": "com.goburguer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "680244328233-59sjaq5snr2v24o7e28h32027hnj51lc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.goburguer",
+            "certificate_hash": "2792cbc660b9fbe9514af055c9b2b6409da62196"
+          }
+        },
+        {
+          "client_id": "680244328233-ejg1698lpbu9d2dlb8mdddiadhqtrf47.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALDwZ7_-ltNXOQv4mKB3Ayfjt9kFt28Qc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "680244328233-ejg1698lpbu9d2dlb8mdddiadhqtrf47.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
